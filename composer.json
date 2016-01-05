@@ -1,0 +1,7 @@
+{
+  "name": "sometechie/upwork-transactions-quicken-import",
+  "require": {
+    "upwork/php-upwork": "dev-master"
+  }
+}
+
